@@ -2,7 +2,7 @@
  * Solution to the problem on: http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=104
  * 	     Author: Yuxuan "Ethan" Chen
  *   Start Time: 3:55 PM, Tuesday, November 25, 2014
- *     End Time:
+ *     End Time: 5:26 PM, Tuesday, November 25, 2014
  */
 
 #include <iostream>
